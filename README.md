@@ -24,7 +24,7 @@
     Meerut College [Affilated to CCSU], Graduated in 2023.
    
 -📬 Contact:
-    Email: shrutisangwan199@gmail.com
+    Email: sangwanshruti27@gmail.com
     LinkedIn: (https://www.linkedin.com/in/shruti-6331a6211/)
     Portfolio: https://shrutisangwan07.github.io/Portfolio-Website/
 
