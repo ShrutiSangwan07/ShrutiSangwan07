@@ -17,7 +17,7 @@
      Database:-
      MySQL
      Tools/Other:-
-     Git, bable, npm
+     Git, bable, npm, pug, express
 
 -📚 Education:
     Bachelor of Science in Computer Science
