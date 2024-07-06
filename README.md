@@ -26,6 +26,7 @@
 -📬 Contact:
     Email: sangwanshruti27@gmail.com
     LinkedIn: (https://www.linkedin.com/in/shruti-6331a6211/)
+    WordPress Portfolio: https://shruti513.wordpress.com/
     Portfolio: https://shrutisangwan07.github.io/Portfolio-Website/
 
 -🌟 Let's create something amazing! I'm always here to be looking forward to exciting projects, collaborations, and discussions about the latest tech trends. Feel free to connect!
